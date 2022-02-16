@@ -1,3 +1,3 @@
-"Hello Git" 
-"Some other changes" 
-"Deviated from when branched" 
+Hello Git
+Deviated from when branched
+Some changes again
